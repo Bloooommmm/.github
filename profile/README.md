@@ -1,5 +1,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Bloooommmm/.github/main/profile/assets/bloom-logo.svg" alt="Bloom" width="260"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Bloooommmm/.github/main/profile/assets/bloom-mascot.png" alt="Bloom's pink sprout mascot" width="140"></p>
 <p align="center"><strong>Understand your cycle. Care for yourself.</strong></p>
 <p align="center">A gentle period tracker that helps young teens understand their changing bodies.</p>
 <p align="center"><a href="https://github.com/Bloooommmm/Bloom-Backend">Backend</a> · <a href="https://github.com/Bloooommmm/Bloom-Frontend">Android app</a> · <a href="https://github.com/Bloooommmm">GitHub organization</a></p>
