@@ -1,24 +1,29 @@
-<h1 align="center">Bloom</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/Bloooommmm/.github/main/profile/assets/bloom-logo.svg" alt="Bloom" width="260"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Bloooommmm/.github/main/profile/assets/bloom-mascot.png" alt="Bloom's pink sprout mascot" width="140"></p>
 <p align="center"><strong>Understand your cycle. Care for yourself.</strong></p>
-<p align="center">Bloom is a supportive menstrual-cycle companion for learning about your body, checking in with your cycle, and finding practical guidance.</p>
-<p align="center"><a href="https://github.com/Bloooommmm/Bloom-Backend">Backend</a> &middot; <a href="https://github.com/Bloooommmm/Bloom-Frontend">Android app</a> &middot; <a href="https://github.com/Bloooommmm">GitHub organization</a></p>
+<p align="center">A gentle period tracker that helps young teens understand their changing bodies.</p>
+<p align="center"><a href="https://github.com/Bloooommmm/Bloom-Backend">Backend</a> · <a href="https://github.com/Bloooommmm/Bloom-Frontend">Android app</a> · <a href="https://github.com/Bloooommmm">GitHub organization</a></p>
 
 ## What Bloom includes
 
-- **Cycle context.** A calm daily view with cycle days and phase information.
-- **Learning.** Short lessons about mood changes, cramps, cravings, and fatigue.
-- **AI insights.** Supportive explanations and practical tips based on a user's mood, symptoms, and cycle phase.
-- **A focused mobile experience.** An Android app built with Kotlin and Jetpack Compose.
+- **Track.** Log period starts and end dates from Today or Calendar.
+- **Understand.** See cycle context and review period history.
+- **Learn.** Read illustrated lessons about periods, cramps, mood, cravings, fatigue, and first periods.
+- **Your account.** Sign in with Google, see your profile, and sign out.
+
+Designed for ages 10-14, with an English interface and five illustrated articles. Mood logging and AI guidance are available through the API; their mobile screens, reminders, personalized predictions, and theme switching are still planned. Cycle estimates are educational, not a diagnosis.
 
 ## Repositories
 
 | Repository | Purpose |
 | --- | --- |
-| [Bloom-Backend](https://github.com/Bloooommmm/Bloom-Backend) | Express API, Prisma data layer, PostgreSQL, and AI insight endpoint |
-| [Bloom-Frontend](https://github.com/Bloooommmm/Bloom-Frontend) | Android Kotlin and Jetpack Compose application |
+| [Bloom-Backend](https://github.com/Bloooommmm/Bloom-Backend) | Express API, Firebase authentication, Prisma, PostgreSQL, and AI insights |
+| [Bloom-Frontend](https://github.com/Bloooommmm/Bloom-Frontend) | Kotlin Android and Jetpack Compose app |
 
-The project is in active development. The mobile screens currently use preview data while authentication, persisted cycle tracking, lessons, and AI requests are connected to the API.
+## Brand
+
+Bloom uses a friendly pink mascot with a green sprout, soft pastel illustrations, and a calm learning-first experience.
 
 ## Contributing
 
-Open an issue with a clear reproduction, product suggestion, or API contract question. Please keep passwords, API keys, private health information, and other sensitive data out of issues and pull requests.
+Open an issue with a clear reproduction, product suggestion, or API contract question. Keep passwords, API keys, private health information, and service-account files out of issues and pull requests.

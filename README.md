@@ -1,9 +1,8 @@
 # Bloom organization profile
 
-This directory contains the public GitHub organization profile for Bloom.
+Bloom is a supportive period-tracking app for young teens. It combines a Kotlin Android experience with an Express, Prisma, and PostgreSQL API.
 
-- `profile/README.md`: profile content shown by GitHub.
-- `../Bloom-Backend/README.md`: backend setup and API reference.
-- `../Bloom-Mobile/README.md`: Android client setup and current scope.
-
-Bloom is a supportive menstrual-cycle companion. The project combines an Android Compose experience with an Express and PostgreSQL API for cycle education and AI-assisted insights.
+- [`profile/README.md`](./profile/README.md) is the public GitHub organization profile.
+- [Backend README](https://github.com/Bloooommmm/Bloom-Backend#readme) documents the API.
+- [Android README](https://github.com/Bloooommmm/Bloom-Frontend#readme) documents the app.
+- `profile/assets/` contains the existing Bloom wordmark and mascot, shared by the repository READMEs.
